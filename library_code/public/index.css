@@ -1,0 +1,68 @@
+.card{
+  margin-top: 70px;
+}
+
+.navbar-brand{
+    margin-left: 80px;
+    font-size: 30px;
+}
+
+.navbar-collapse{
+    margin-left: 55px;
+}
+
+.nav-link{
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+  .centered {
+    position: absolute;
+    text-align: center;
+    color: white;
+    top: 55%;
+    left: 50%;
+    font-size: 90px;
+    transform: translate(-50%, -50%);
+  }
+
+  .center_small {
+    position: absolute;
+    text-align: center;
+    color: white;
+    top: 27%;
+    left: 50%;
+    font-size: 60px;
+    transform: translate(-50%, -50%);
+    
+  }
+
+  .btn-xl {
+    padding: 10px 20px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.container3{
+  background-color: rgb(219, 219, 219);
+  padding-top: 70px;
+  padding-left: 100px;
+  padding-bottom: 70px;
+}
+
+.welcome{
+  font-size: 35px;
+}
+
+.scholar{
+  font-size: 50px;
+}
+
+.container4{
+background-color: beige;
+padding-top: 100px;
+}
+
+.carousel-item{
+ margin-top: 100px;
+}
